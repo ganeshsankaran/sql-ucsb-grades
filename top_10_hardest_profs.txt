@@ -1,0 +1,12 @@
+instr       dept        nyears      avggpa    
+----------  ----------  ----------  ----------
+CRAY S P    CHEM        1           1.54      
+IRETSKI A   CHEM        1           1.64074074
+SCHOPP N    CHEM        1           1.75208333
+NGOH C      C LIT       1           1.825     
+KAHN K      CHEM W      5           1.89132947
+GARRIDO J   PSTAT       1           1.93196721
+RAMBELLI F  JAPAN       1           1.95833333
+AUDERSET S  LING        1           2.01428571
+SIEGEL G D  MUS         1           2.04      
+YURASH B A  CHEM        1           2.12222222
